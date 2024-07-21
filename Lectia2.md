@@ -45,9 +45,9 @@ console.log(suma); // Afișează 15
 
 ### 5.4. Funcții anonime și funcții de săgeată
 
-Funcțiile anonime nu au un nume și sunt adesea folosite ca expresii. Funcțiile de săgeată (`arrow functions`) sunt o sintaxă scurtată pentru funcțiile anonime, introdusă în ECMAScript 6.
+Anonymus functions nu au un nume și sunt adesea folosite ca expresii. Arrow functions sunt o sintaxă scurtată pentru anonymus functions, introdusă în ECMAScript 6.
 
-Exemplu de funcție anonimă:
+Exemplu de anonymus function:
 ```javascript
 let salut = function(nume) {
     console.log("Salut, " + nume + "!");
@@ -56,7 +56,7 @@ let salut = function(nume) {
 salut("John");
 ```
 
-Exemplu de funcție de săgeată:
+Exemplu de arrow function:
 ```javascript
 let salut = (nume) => {
     console.log("Salut, " + nume + "!");
