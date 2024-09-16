@@ -1,5 +1,17 @@
 # Lecția 5: AJAX și Fetch API în JavaScript
 
+
+
+### Ce este un API?
+Un API (Interfață de Programare a Aplicației) este un set de reguli și protocoale care permit diferitelor aplicații să comunice între ele. API-urile pot fi folosite pentru a accesa și a interacționa cu servicii sau resurse externe, cum ar fi baze de date, aplicații web sau alte servicii online.
+
+Clasificare APIs:
+- **SOAP (Simple Object Access Protocol)**: Un protocol de comunicare bazat pe XML care permite aplicațiilor să comunice între ele.
+- **REST (Representational State Transfer)**: Un stil arhitectural pentru dezvoltarea aplicațiilor web bazat pe HTTP și URL-uri.
+- **Local APIs**: API-uri care permit comunicarea între diferite componente ale unei aplicații.
+- **Third-party APIs**: API-uri oferite de terțe părți pentru a accesa servicii sau resurse externe.
+- **Web APIs**: API-uri oferite de browser pentru a accesa funcționalități precum geolocația, stocarea locală sau accesul la dispozitive hardware.
+
 ## 9. AJAX și Fetch API
 
 ### 9.1. Introducere în AJAX
@@ -165,3 +177,7 @@ document.getElementById("postDataButton").addEventListener("click", function() {
 ```
 
 În acest exemplu, avem două butoane: unul pentru a face o cerere GET și unul pentru a face o cerere POST. Răspunsurile sunt afișate într-un element `<pre>` pentru a păstra formatarea JSON.
+
+### Un video util:
+
+[![Watch the video](https://i.ytimg.com/vi/ubw2hdQIl4E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpgywx9zOS1UTc6XEow7ZgHEkL1Q)](https://youtube.com/watch?v=ubw2hdQIl4E)

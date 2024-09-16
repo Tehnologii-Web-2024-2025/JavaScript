@@ -133,3 +133,10 @@ executa();
 - **Promises**: Oferă o modalitate clară de a gestiona operațiunile asincrone, dar pot deveni greu de citit și de întreținut atunci când există mai multe promisiuni în lanț.
 - **Async/Await**: Simplifică gestionarea codului asincron, făcându-l să arate și să se comporte mai mult ca un cod sincron. Este mai ușor de citit și de înțeles, mai ales pentru operațiuni complexe.
 
+
+### Cum functioneaza gestionarea eventurilor in JavaScript
+
+[![Watch the video](https://i.ytimg.com/vi/eiC58R16hb8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0q1rCkgDrrVenOifk_9ARJ3f3vQ)](https://www.youtube.com/watch?v=eiC58R16hb8&list=WL&index=1&t=662s)
+
+### Async/await vs Promises
+[![Watch the video](https://i.ytimg.com/vi/spvYqO_Kp9Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpvKBPWjD-Jpj587DzvSkW42xxZQ)](https://youtu.be/spvYqO_Kp9Q?si=u0sOnEisSqWLz4An)

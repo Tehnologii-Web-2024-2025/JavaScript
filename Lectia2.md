@@ -65,6 +65,10 @@ let salut = (nume) => {
 salut("Jane");
 ```
 
+Videoclip: [![Watch the video](https://i.ytimg.com/vi/ajTvmGxWQF8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBl9DYz5rdQdTTTmO9JuLKrMYs63g)](https://www.youtube.com/watch?v=ajTvmGxWQF8&list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP&index=7s)
+
+
+
 ## 6. Obiecte și Arrays
 
 ### 6.1. Obiecte
