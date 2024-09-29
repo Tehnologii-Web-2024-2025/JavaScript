@@ -11,6 +11,7 @@ JavaScript este un limbaj de programare de nivel înalt, interpretat, folosit î
 - **Dinamic**: Permite tipuri de date dinamice, ceea ce înseamnă că variabilele pot schimba tipul la runtime.
 - **Event-driven**: Suportă programarea bazată pe evenimente, ceea ce permite reacția la acțiunile utilizatorilor.
 - **Multiplatformă**: Rulează pe orice dispozitiv care are un browser web.
+- **Este single threaded**
 
 ## Istoria și evoluția JavaScript
 
